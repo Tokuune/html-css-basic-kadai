@@ -14,6 +14,7 @@ h1 {
 }
 body{
   font-family: "Arial", "Meiryo", sans-serif;
+  text-align: center;
   border-top: solid 0.2em gray;
   border-bottom: solid 0.2em gray;
 }
@@ -21,10 +22,7 @@ body{
   text-align: center;
   line-height: 1.2em;
 }
-.parent > p {
-  font-weight: bold;
-}
-.grandchild {
+.child {
   font-weight: bold;
 }
 .blue {
